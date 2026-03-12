@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רז הפיצה מגישה פיצה טרייה ואיכותית בעין שריד וצור משה. פיצרייה משפחתית עם מגוון טעמים מפנקים שכולם אוהבים. הזמינו עכשיו!
+
+### תפריט
+https://example.com/menu
+רז הפיצה תפריט עשיר ומגוון: פיצות קלאסיות, מיוחדות, תוספות ועוד. כל המנות שלנו מוכנות מחומרי גלם טריים. עיינו בתפריט המלא!
+
+### סניפים
+https://example.com/locations
+שני סניפים של רז הפיצה משרתים את תושבי עין שריד וצור משה. מיקומים נוחים, שירות מהיר ופיצה חמה ומושלמת. בואו לבקר אותנו!
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם רז הפיצה להזמנות, שאלות או הצעות. אנחנו כאן בשבילכם בעין שריד ובצור משה. התקשרו, הזמינו ותהנו מפיצה מעולה!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
